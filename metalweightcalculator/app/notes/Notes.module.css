@@ -5,7 +5,7 @@
   }
   
   .grid {
-    margin-top: 2rem;
+    margin-top: 3rem;
     display: flex;
     align-items: flex-start;
     justify-content: flex-start;
@@ -15,17 +15,17 @@
   
   .action {
     text-align: left;
-    color: dodgerblue;
+    color: rgb(4, 55, 107);
   }
   
   .note {
     height: auto;
     width: 200px;
     padding: 0.2rem 1rem;
-    margin: 0.5rem;
-    background: #ffff00;
+    margin: 1rem;
+    background: #00ffe1;
     box-shadow: 4px 4px 8px 1px #00000075;
-    border-radius: 2px;
+    border-radius: 3px;
   }
   
   .container {
@@ -62,5 +62,5 @@
   
   .action {
     text-align: left;
-    color: dodgerblue;
+    color: rgb(15, 119, 223);
   }
